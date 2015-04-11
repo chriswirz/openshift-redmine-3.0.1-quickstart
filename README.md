@@ -1,7 +1,11 @@
 <h1>Redmine 3.0.1 for Openshift</h1>
 <p>The following procedure will create a redmine instance</p>
 <pre>
-#Ruby 1.9 or 2.0 with MySql 5.1
+# The Openshift application must be configured as follows:
+# Ruby 1.9 or 2.0 (no scaling)
+# MySql 5.1
+
+# Begin the installation by navigating to the app runtime directory
 cd ~/app-root/runtime/repo/
 # download redmine
 wget http://www.redmine.org/releases/redmine-3.0.1.tar.gz
@@ -41,7 +45,7 @@ gear start
 cd ~/app-root/runtime/repo/
 git init
 git add .
-git commit -m 'Quickstart for Redmine 3.0.1 for Openshift'
+git commit -m 'Openshift Quickstart for Redmine 3.0.1'
 git remote add origin <url to the openshift git repo>
 git push -u origin master
 </pre>
