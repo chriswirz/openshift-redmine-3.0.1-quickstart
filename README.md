@@ -1,3 +1,47 @@
-The OpenShift `ruby` cartridge documentation can be found at:
+<h1>Redmine 3.0.1 for Openshift</h1>
+<p>The following procedure will create a redmine instance</p>
+<pre>
+#Ruby 1.9 or 2.0 with MySql 5.1
+cd ~/app-root/runtime/repo/
+# download redmine
+wget http://www.redmine.org/releases/redmine-3.0.1.tar.gz
+tar xvzf redmine-3.0.1.tar.gz
+rm redmine-3.0.1.tar.gz
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#ruby
+# extract it to its new environment
+rm -rf public
+rm -rf tmp
+mv redmine-3.0.1/* ~/app-root/runtime/repo/
+rm -rf redmine-3.0.1*
+
+# make sure rails is installed
+gem install rails -v '4.2.1'
+gem install bundler -no-ri -no-rdoc
+gem install mysql2 -v '0.3.18'
+
+# get the configuration files
+cd config
+wget —no-check-certificate http://www.wirzbrothers.com/database.yml
+wget —no-check-certificate http://www.wirzbrothers.com/configuration.yml
+cd ..
+
+# bundle install
+bundle install --no-deployment
+rake generate_secret_token
+RAILS_ENV=production rake db:migrate
+RAILS_ENV=production rake redmine:load_default_data
+
+# restart the app/gear
+gear stop
+gear start
+</pre>
+
+<p>Once the gear is functioning properly, add the contents to the the repository.</p>
+<pre>
+cd ~/app-root/runtime/repo/
+git init
+git add .
+git commit -m 'Quickstart for Redmine 3.0.1 for Openshift'
+git remote add origin <url to the openshift git repo>
+git push -u origin master
+</pre>
