@@ -25,8 +25,8 @@ gem install mysql2 -v '0.3.18'
 
 # get the configuration files
 cd config
-wget —no-check-certificate http://www.wirzbrothers.com/database.yml
-wget —no-check-certificate http://www.wirzbrothers.com/configuration.yml
+wget —no-check-certificate https://raw.githubusercontent.com/chriswirz/openshift-redmine-3.0.1-quickstart/master/config/database.yml
+wget —no-check-certificate https://raw.githubusercontent.com/chriswirz/openshift-redmine-3.0.1-quickstart/master/config/configuration.yml
 cd ..
 
 # bundle install
