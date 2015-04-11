@@ -48,6 +48,6 @@ cd ~/app-root/runtime/repo/
 git init
 git add .
 git commit -m 'Openshift Quickstart for Redmine 3.0.1'
-git remote add origin &lt;url to the openshift git repo&gt;
+git remote add origin "ssh://$OPENSHIFT_APP_UUID@$OPENSHIFT_APP_DNS/~/git/ruby.git/"
 git push -u origin master
 </pre>
