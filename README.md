@@ -24,13 +24,15 @@ gem install bundler -no-ri -no-rdoc
 gem install mysql2 -v '0.3.18'
 
 # get the configuration files
-cd config
+cd ~/app-root/runtime/repo/config
 wget —no-check-certificate https://raw.githubusercontent.com/chriswirz/openshift-redmine-3.0.1-quickstart/master/config/database.yml
 wget —no-check-certificate https://raw.githubusercontent.com/chriswirz/openshift-redmine-3.0.1-quickstart/master/config/configuration.yml
-cd ..
+cd ~/app-root/runtime/repo/
 
 # bundle install
 bundle install --no-deployment
+
+# populate the database
 rake generate_secret_token
 RAILS_ENV=production rake db:migrate
 RAILS_ENV=production rake redmine:load_default_data
