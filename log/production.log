@@ -1,0 +1,1019 @@
+Migrating to Setup (1)
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+Migrating to IssueMove (2)
+WARNING: Can't mass-assign protected attributes for IssueMove::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+Migrating to IssueAddNote (3)
+WARNING: Can't mass-assign protected attributes for IssueAddNote::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+Migrating to ExportPdf (4)
+WARNING: Can't mass-assign protected attributes for ExportPdf::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for ExportPdf::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to IssueStartDate (5)
+Migrating to CalendarAndActivity (6)
+WARNING: Can't mass-assign protected attributes for CalendarAndActivity::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for CalendarAndActivity::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for CalendarAndActivity::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateJournals (7)
+WARNING: Can't mass-assign protected attributes for CreateJournals::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateUserPreferences (8)
+Migrating to AddHideMailPref (9)
+Migrating to CreateComments (10)
+Migrating to AddNewsCommentsCount (11)
+Migrating to AddCommentsPermissions (12)
+WARNING: Can't mass-assign protected attributes for AddCommentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddCommentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateQueries (13)
+Migrating to AddQueriesPermissions (14)
+WARNING: Can't mass-assign protected attributes for AddQueriesPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateRepositories (15)
+Migrating to AddRepositoriesPermissions (16)
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+Migrating to CreateSettings (17)
+Migrating to SetDocAndFilesNotifications (18)
+Migrating to AddIssueStatusPosition (19)
+Migrating to AddRolePosition (20)
+Migrating to AddTrackerPosition (21)
+Migrating to SerializePossiblesValues (22)
+Migrating to AddTrackerIsInRoadmap (23)
+Migrating to AddRoadmapPermission (24)
+WARNING: Can't mass-assign protected attributes for AddRoadmapPermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddSearchPermission (25)
+WARNING: Can't mass-assign protected attributes for AddSearchPermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddRepositoryLoginAndPassword (26)
+Migrating to CreateWikis (27)
+Migrating to CreateWikiPages (28)
+Migrating to CreateWikiContents (29)
+Migrating to AddProjectsFeedsPermissions (30)
+WARNING: Can't mass-assign protected attributes for AddProjectsFeedsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddRepositoryRootUrl (31)
+Migrating to CreateTimeEntries (32)
+Migrating to AddTimelogPermissions (33)
+WARNING: Can't mass-assign protected attributes for AddTimelogPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateChangesets (34)
+Migrating to CreateChanges (35)
+Migrating to AddChangesetCommitDate (36)
+Migrating to AddProjectIdentifier (37)
+Migrating to AddCustomFieldIsFilter (38)
+Migrating to CreateWatchers (39)
+Migrating to CreateChangesetsIssues (40)
+Migrating to RenameCommentToComments (41)
+Migrating to CreateIssueRelations (42)
+Migrating to AddRelationsPermissions (43)
+WARNING: Can't mass-assign protected attributes for AddRelationsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddRelationsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to SetLanguageLengthToFive (44)
+Migrating to CreateBoards (45)
+Migrating to CreateMessages (46)
+Migrating to AddBoardsPermissions (47)
+WARNING: Can't mass-assign protected attributes for AddBoardsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddBoardsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddBoardsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AllowNullVersionEffectiveDate (48)
+Migrating to AddWikiDestroyPagePermission (49)
+WARNING: Can't mass-assign protected attributes for AddWikiDestroyPagePermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddWikiAttachmentsPermissions (50)
+WARNING: Can't mass-assign protected attributes for AddWikiAttachmentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddWikiAttachmentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddProjectStatus (51)
+Migrating to AddChangesRevision (52)
+Migrating to AddChangesBranch (53)
+Migrating to AddChangesetsScmid (54)
+Migrating to AddRepositoriesType (55)
+Migrating to AddRepositoriesChangesPermission (56)
+WARNING: Can't mass-assign protected attributes for AddRepositoriesChangesPermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddVersionsWikiPageTitle (57)
+Migrating to AddIssueCategoriesAssignedToId (58)
+Migrating to AddRolesAssignable (59)
+Migrating to ChangeChangesetsCommitterLimit (60)
+Migrating to AddRolesBuiltin (61)
+Migrating to InsertBuiltinRoles (62)
+Migrating to AddRolesPermissions (63)
+Migrating to DropPermissions (64)
+Migrating to AddSettingsUpdatedOn (65)
+Migrating to AddCustomValueCustomizedIndex (66)
+Migrating to CreateWikiRedirects (67)
+Migrating to CreateEnabledModules (68)
+Migrating to AddIssuesEstimatedHours (69)
+Migrating to ChangeAttachmentsContentTypeLimit (70)
+Migrating to AddQueriesColumnNames (71)
+Migrating to AddEnumerationsPosition (72)
+Migrating to AddEnumerationsIsDefault (73)
+Migrating to AddAuthSourcesTls (74)
+Migrating to AddMembersMailNotification (75)
+Migrating to AllowNullPosition (76)
+Migrating to RemoveIssueStatusesHtmlColor (77)
+Migrating to AddCustomFieldsPosition (78)
+Migrating to AddUserPreferencesTimeZone (79)
+Migrating to AddUsersType (80)
+Migrating to CreateProjectsTrackers (81)
+Migrating to AddMessagesLocked (82)
+Migrating to AddMessagesSticky (83)
+Migrating to ChangeAuthSourcesAccountLimit (84)
+Migrating to AddRoleTrackerOldStatusIndexToWorkflows (85)
+Migrating to AddCustomFieldsSearchable (86)
+Migrating to ChangeProjectsDescriptionToText (87)
+Migrating to AddCustomFieldsDefaultValue (88)
+Migrating to AddAttachmentsDescription (89)
+Migrating to ChangeVersionsNameLimit (90)
+Migrating to ChangeChangesetsRevisionToString (91)
+Migrating to ChangeChangesFromRevisionToString (92)
+Migrating to AddWikiPagesProtected (93)
+Migrating to ChangeProjectsHomepageLimit (94)
+Migrating to AddWikiPagesParentId (95)
+Migrating to AddCommitAccessPermission (96)
+Migrating to AddViewWikiEditsPermission (97)
+Migrating to SetTopicAuthorsAsWatchers (98)
+Migrating to AddDeleteWikiPagesAttachmentsPermission (99)
+Migrating to AddChangesetsUserId (100)
+Migrating to PopulateChangesetsUserId (101)
+Migrating to AddCustomFieldsEditable (102)
+Migrating to SetCustomFieldsEditable (103)
+Migrating to AddProjectsLftAndRgt (104)
+Migrating to BuildProjectsTree (105)
+Migrating to RemoveProjectsProjectsCount (106)
+Migrating to AddOpenIdAuthenticationTables (107)
+Migrating to AddIdentityUrlToUsers (108)
+Migrating to AddWatchersUserIdTypeIndex (20090214190337)
+Migrating to AddQueriesSortCriteria (20090312172426)
+Migrating to AddProjectsTrackersUniqueIndex (20090312194159)
+Migrating to ExtendSettingsName (20090318181151)
+Migrating to AddTypeToEnumerations (20090323224724)
+Migrating to UpdateEnumerationsToSti (20090401221305)
+Migrating to AddActiveFieldToEnumerations (20090401231134)
+Migrating to AddProjectToEnumerations (20090403001910)
+Migrating to AddParentIdToEnumerations (20090406161854)
+Migrating to AddQueriesGroupBy (20090425161243)
+Migrating to CreateMemberRoles (20090503121501)
+Migrating to PopulateMemberRoles (20090503121505)
+Migrating to DropMembersRoleId (20090503121510)
+Migrating to FixMessagesStickyNull (20090614091200)
+Migrating to PopulateUsersType (20090704172350)
+Migrating to CreateGroupsUsers (20090704172355)
+Migrating to AddMemberRolesInheritedFrom (20090704172358)
+Migrating to FixUsersCustomValues (20091010093521)
+Migrating to AddMissingIndexesToWorkflows (20091017212227)
+Migrating to AddMissingIndexesToCustomFieldsProjects (20091017212457)
+Migrating to AddMissingIndexesToMessages (20091017212644)
+Migrating to AddMissingIndexesToRepositories (20091017212938)
+Migrating to AddMissingIndexesToComments (20091017213027)
+Migrating to AddMissingIndexesToEnumerations (20091017213113)
+Migrating to AddMissingIndexesToWikiPages (20091017213151)
+Migrating to AddMissingIndexesToWatchers (20091017213228)
+Migrating to AddMissingIndexesToAuthSources (20091017213257)
+Migrating to AddMissingIndexesToDocuments (20091017213332)
+Migrating to AddMissingIndexesToTokens (20091017213444)
+Migrating to AddMissingIndexesToChangesets (20091017213536)
+Migrating to AddMissingIndexesToIssueCategories (20091017213642)
+Migrating to AddMissingIndexesToMemberRoles (20091017213716)
+Migrating to AddMissingIndexesToBoards (20091017213757)
+Migrating to AddMissingIndexesToUserPreferences (20091017213835)
+Migrating to AddMissingIndexesToIssues (20091017213910)
+Migrating to AddMissingIndexesToMembers (20091017214015)
+Migrating to AddMissingIndexesToCustomFields (20091017214107)
+Migrating to AddMissingIndexesToQueries (20091017214136)
+Migrating to AddMissingIndexesToTimeEntries (20091017214236)
+Migrating to AddMissingIndexesToNews (20091017214308)
+Migrating to AddMissingIndexesToUsers (20091017214336)
+Migrating to AddMissingIndexesToAttachments (20091017214406)
+Migrating to AddMissingIndexesToWikiContents (20091017214440)
+Migrating to AddMissingIndexesToCustomValues (20091017214519)
+Migrating to AddMissingIndexesToJournals (20091017214611)
+Migrating to AddMissingIndexesToIssueRelations (20091017214644)
+Migrating to AddMissingIndexesToWikiRedirects (20091017214720)
+Migrating to AddMissingIndexesToCustomFieldsTrackers (20091017214750)
+Migrating to AddActivityIndexes (20091025163651)
+Migrating to AddVersionsStatus (20091108092559)
+Migrating to AddViewIssuesPermission (20091114105931)
+Migrating to AddDefaultDoneRatioToIssueStatus (20091123212029)
+Migrating to AddVersionsSharing (20091205124427)
+Migrating to AddLftAndRgtIndexesToProjects (20091220183509)
+Migrating to AddIndexToSettingsName (20091220183727)
+Migrating to AddIndexesToIssueStatus (20091220184736)
+Migrating to RemoveEnumerationsOpt (20091225164732)
+Migrating to ChangeWikiContentsTextLimit (20091227112908)
+Migrating to ChangeUsersMailNotificationToString (20100129193402)
+Migrating to UpdateMailNotificationValues (20100129193813)
+Migrating to AddIndexOnChangesetsScmid (20100221100219)
+Migrating to AddIssuesNestedSetsColumns (20100313132032)
+Migrating to AddIndexOnIssuesNestedSet (20100313171051)
+Migrating to ChangeChangesPathLengthLimit (20100705164950)
+Migrating to EnableCalendarAndGanttModulesWhereAppropriate (20100819172912)
+Migrating to AddUniqueIndexOnMembers (20101104182107)
+Migrating to AddCustomFieldsVisible (20101107130441)
+Migrating to ChangeProjectsNameLimit (20101114115114)
+Migrating to ChangeProjectsIdentifierLimit (20101114115359)
+Migrating to AddWorkflowsAssigneeAndAuthor (20110220160626)
+Migrating to AddUsersSalt (20110223180944)
+Migrating to SaltUserPasswords (20110223180953)
+Migrating to AddRepositoriesPathEncoding (20110224000000)
+Migrating to ChangeRepositoriesPasswordLimit (20110226120112)
+Migrating to ChangeAuthSourcesAccountPasswordLimit (20110226120132)
+Migrating to ChangeJournalDetailsValuesToText (20110227125750)
+Migrating to AddRepositoriesLogEncoding (20110228000000)
+Migrating to CopyRepositoriesLogEncoding (20110228000100)
+Migrating to AddIndexToUsersType (20110401192910)
+Migrating to AddRolesIssuesVisibility (20110408103312)
+Migrating to AddIssuesIsPrivate (20110412065600)
+Migrating to AddRepositoriesExtraInfo (20110511000000)
+Migrating to CreateChangesetParents (20110902000000)
+Migrating to AddUniqueIndexToIssueRelations (20111201201315)
+Migrating to AddRepositoriesIdentifier (20120115143024)
+Migrating to AddRepositoriesIsDefault (20120115143100)
+Migrating to SetDefaultRepositories (20120115143126)
+Migrating to AddCustomFieldsMultiple (20120127174243)
+Migrating to ChangeUsersLoginLimit (20120205111326)
+Migrating to ChangeAttachmentsContainerDefaults (20120223110929)
+Migrating to AddAuthSourcesFilter (20120301153455)
+Migrating to ChangeRepositoriesToFullSti (20120422150750)
+Migrating to AddTrackersFieldsBits (20120705074331)
+Migrating to AddAuthSourcesTimeout (20120707064544)
+Migrating to AddWorkflowsType (20120714122000)
+Migrating to UpdateWorkflowsToSti (20120714122100)
+Migrating to AddWorkflowsRuleFields (20120714122200)
+Migrating to AddBoardsParentId (20120731164049)
+Migrating to AddJournalsPrivateNotes (20120930112914)
+Migrating to AddEnumerationsPositionName (20121026002032)
+Migrating to PopulateEnumerationsPositionName (20121026003537)
+Migrating to AddQueriesType (20121209123234)
+Migrating to UpdateQueriesToSti (20121209123358)
+Migrating to AddAttachmentsDiskDirectory (20121213084931)
+Migrating to SplitDocumentsPermissions (20130110122628)
+Migrating to AddUniqueIndexOnTokensValue (20130201184705)
+Migrating to AddProjectsInheritMembers (20130202090625)
+Migrating to AddUniqueIndexOnCustomFieldsTrackers (20130207175206)
+Migrating to AddUniqueIndexOnCustomFieldsProjects (20130207181455)
+Migrating to ChangeUsersLastnameLengthTo255 (20130215073721)
+Migrating to AddIssuesClosedOn (20130215111127)
+Migrating to PopulateIssuesClosedOn (20130215111141)
+Migrating to RemoveIssuesDefaultFkValues (20130217094251)
+Migrating to CreateQueriesRoles (20130602092539)
+Migrating to AddQueriesVisibility (20130710182539)
+Migrating to CreateCustomFieldsRoles (20130713104233)
+Migrating to AddQueriesOptions (20130713111657)
+Migrating to AddUsersMustChangePasswd (20130729070143)
+Migrating to RemoveEolsFromAttachmentsFilename (20130911193200)
+Migrating to SupportForMultipleCommitKeywords (20131004113137)
+Migrating to AddRepositoriesCreatedOn (20131005100610)
+Migrating to AddCustomFieldsFormatStore (20131124175346)
+Migrating to AddCustomFieldsDescription (20131210180802)
+Migrating to RemoveCustomFieldsMinMaxLengthDefaultValues (20131214094309)
+Migrating to StoreRelationTypeInJournalDetails (20131215104612)
+Migrating to DeleteOrphanTimeEntriesCustomValues (20131218183023)
+Migrating to ChangeChangesetsCommentsLimit (20140228130325)
+Migrating to AddPasswordChangedAtToUser (20140903143914)
+Migrating to InsertBuiltinGroups (20140920094058)
+Migrating to AddTrackersDefaultStatusId (20141029181752)
+Migrating to RemoveIssueStatusesIsDefault (20141029181824)
+Migrating to AddRolesUsersVisibility (20141109112308)
+Migrating to AddWikiRedirectsRedirectsToWikiId (20141122124142)
+Migrating to CreateEmailAddresses (20150113194759)
+Migrating to PopulateEmailAddresses (20150113211532)
+Migrating to RemoveUsersMail (20150113213922)
+Migrating to AddEmailAddressesUserIdIndex (20150113213955)
+Migrating to ReplaceMoveIssuesPermission (20150208105930)
+Started HEAD "/" for 127.11.217.129 at 2015-04-11 15:24:12 -0400
+Processing by WelcomeController#index as HTML
+WARNING: Can't mass-assign protected attributes for AnonymousUser: login
+	app/models/user.rb:693:in `anonymous'
+	app/models/user.rb:685:in `current'
+	app/controllers/application_controller.rb:103:in `user_setup'
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (76.4ms)
+Completed 200 OK in 697ms (Views: 125.0ms | ActiveRecord: 94.6ms)
+Started HEAD "/" for 127.11.217.129 at 2015-04-11 15:24:12 -0400
+Processing by WelcomeController#index as HTML
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.5ms)
+Completed 200 OK in 19ms (Views: 10.3ms | ActiveRecord: 2.2ms)
+Started GET "/" for 127.11.217.129 at 2015-04-11 15:26:13 -0400
+Processing by WelcomeController#index as HTML
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.0ms)
+Completed 200 OK in 19ms (Views: 10.1ms | ActiveRecord: 2.5ms)
+Started GET "/login" for 127.11.217.129 at 2015-04-11 15:26:17 -0400
+Processing by AccountController#login as HTML
+  Current user: anonymous
+  Rendered account/login.html.erb within layouts/base (8.0ms)
+Completed 200 OK in 115ms (Views: 109.7ms | ActiveRecord: 2.1ms)
+Started POST "/login" for 127.11.217.129 at 2015-04-11 15:26:20 -0400
+Processing by AccountController#login as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"cHSb+ccl4vN7tVnh13T4VWiEdbn42Zp8cZZl51hC8CF1vCEjcl/TGBSVzr4UtrQQRXFEzaNpLHW4lmYW6LN/UQ==", "back_url"=>"http://ruby-wyaredmine.rhcloud.com/", "username"=>"admin", "password"=>"[FILTERED]", "login"=>"Login »"}
+  Current user: anonymous
+Successful authentication for 'admin' from 172.248.254.47 at 2015-04-11 19:26:20 UTC
+Redirected to http://ruby-wyaredmine.rhcloud.com/
+Completed 302 Found in 11ms (ActiveRecord: 3.9ms)
+Started GET "/" for 127.11.217.129 at 2015-04-11 15:26:20 -0400
+Processing by WelcomeController#index as HTML
+  Current user: admin (id=1)
+  Rendered welcome/index.html.erb within layouts/base (29.2ms)
+Completed 200 OK in 58ms (Views: 41.0ms | ActiveRecord: 9.5ms)
+Started GET "/my/account" for 127.11.217.129 at 2015-04-11 15:26:25 -0400
+Processing by MyController#account as HTML
+  Current user: admin (id=1)
+  Rendered users/_mail_notifications.html.erb (9.7ms)
+  Rendered users/_preferences.html.erb (368.5ms)
+  Rendered my/_sidebar.html.erb (16.2ms)
+  Rendered my/account.html.erb within layouts/base (2082.9ms)
+Completed 200 OK in 2143ms (Views: 2129.3ms | ActiveRecord: 8.9ms)
+Started POST "/my/account" for 127.11.217.129 at 2015-04-11 15:26:41 -0400
+Processing by MyController#account as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"7qwroo2cgtJFxQEcPD7RIu+F0tNokSi7uvRYKuZ384wSt1/HVe7XJITyjy/ntnGdu7YkXtCSNEsx+GFmJeNWrg==", "user"=>{"firstname"=>"Christopher", "lastname"=>"Wirz", "mail"=>"crwirz@gmail.com", "language"=>"en", "mail_notification"=>"all", "notified_project_ids"=>[""]}, "commit"=>"Save", "pref"=>{"no_self_notified"=>"0", "hide_mail"=>"0", "time_zone"=>"", "comments_sorting"=>"asc", "warn_on_leaving_unsaved"=>"1"}}
+  Current user: admin (id=1)
+Redirected to http://ruby-wyaredmine.rhcloud.com/my/account
+Completed 302 Found in 42ms (ActiveRecord: 9.8ms)
+Started GET "/my/account" for 127.11.217.129 at 2015-04-11 15:26:42 -0400
+Processing by MyController#account as HTML
+  Current user: admin (id=1)
+  Rendered users/_mail_notifications.html.erb (5.2ms)
+  Rendered users/_preferences.html.erb (5.9ms)
+  Rendered my/_sidebar.html.erb (3.8ms)
+  Rendered my/account.html.erb within layouts/base (23.5ms)
+Completed 200 OK in 38ms (Views: 29.8ms | ActiveRecord: 3.8ms)
+Started GET "/my/password" for 127.11.217.129 at 2015-04-11 15:26:43 -0400
+Processing by MyController#password as HTML
+  Current user: admin (id=1)
+  Rendered my/_sidebar.html.erb (5.1ms)
+  Rendered my/password.html.erb within layouts/base (9.7ms)
+Completed 200 OK in 40ms (Views: 34.6ms | ActiveRecord: 2.5ms)
+Started POST "/my/password" for 127.11.217.129 at 2015-04-11 15:27:00 -0400
+Processing by MyController#password as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RO/R4UWkGxep58c9zgWq+wWlwLFJaSrYJ5J7yv/CfBC49KWEndZO4WjQSQ4VjQpEUZY2PPFqNiisnkKGPFbZMg==", "password"=>"[FILTERED]", "new_password"=>"[FILTERED]", "new_password_confirmation"=>"[FILTERED]", "commit"=>"Apply"}
+  Current user: admin (id=1)
+Redirected to http://ruby-wyaredmine.rhcloud.com/my/account
+Completed 302 Found in 20ms (ActiveRecord: 7.1ms)
+Started GET "/my/account" for 127.11.217.129 at 2015-04-11 15:27:00 -0400
+Processing by MyController#account as HTML
+  Current user: admin (id=1)
+  Rendered users/_mail_notifications.html.erb (5.1ms)
+  Rendered users/_preferences.html.erb (4.9ms)
+  Rendered my/_sidebar.html.erb (3.6ms)
+  Rendered my/account.html.erb within layouts/base (21.5ms)
+Completed 200 OK in 34ms (Views: 26.9ms | ActiveRecord: 3.6ms)
+Started GET "/" for 127.11.217.129 at 2015-04-11 15:27:06 -0400
+Processing by WelcomeController#index as HTML
+  Current user: admin (id=1)
+  Rendered welcome/index.html.erb within layouts/base (2.9ms)
+Completed 200 OK in 19ms (Views: 12.0ms | ActiveRecord: 2.9ms)
+Started GET "/" for 127.11.217.129 at 2015-04-11 15:27:11 -0400
+Processing by WelcomeController#index as HTML
+  Current user: admin (id=1)
+  Rendered welcome/index.html.erb within layouts/base (2.6ms)
+Completed 200 OK in 19ms (Views: 11.9ms | ActiveRecord: 2.4ms)
+Started GET "/" for 127.11.217.129 at 2015-04-11 15:31:11 -0400
+Processing by WelcomeController#index as HTML
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (0.9ms)
+Completed 200 OK in 16ms (Views: 8.2ms | ActiveRecord: 2.2ms)
+Started GET "/projects" for 127.11.217.129 at 2015-04-11 15:31:16 -0400
+Processing by ProjectsController#index as HTML
+  Current user: anonymous
+  Rendered projects/index.html.erb within layouts/base (119.1ms)
+Completed 200 OK in 147ms (Views: 137.8ms | ActiveRecord: 2.3ms)
+Started GET "/login" for 127.11.217.129 at 2015-04-11 15:31:19 -0400
+Processing by AccountController#login as HTML
+  Current user: anonymous
+  Rendered account/login.html.erb within layouts/base (1.2ms)
+Completed 200 OK in 13ms (Views: 8.8ms | ActiveRecord: 0.8ms)
+Started POST "/login" for 127.11.217.129 at 2015-04-11 15:31:22 -0400
+Processing by AccountController#login as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fkzT6syNJkA+Rod67h0Dsn+UCCM7XKC/EwObUFMIDeMBuyaotQ4deu61U5NOf3u3PxmZT2A6B1TkIL8CgyTTuw==", "back_url"=>"https://ruby-wyaredmine.rhcloud.com/projects", "username"=>"admin", "password"=>"[FILTERED]", "login"=>"Login »"}
+  Current user: anonymous
+Failed login for 'admin' from 172.248.254.47 at 2015-04-11 19:31:22 UTC
+  Rendered account/login.html.erb within layouts/base (0.9ms)
+Completed 200 OK in 14ms (Views: 7.8ms | ActiveRecord: 1.1ms)
+Started POST "/login" for 127.11.217.129 at 2015-04-11 15:31:27 -0400
+Processing by AccountController#login as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZPccbyZuqp6g7+AnTWYSlFGf44NF36PW34NW+C9yoUUbAOktX+2RpHAcNM7tBGqRERJy7x65BD0ooHKq/15/HQ==", "back_url"=>"https://ruby-wyaredmine.rhcloud.com/projects", "username"=>"admin", "password"=>"[FILTERED]", "login"=>"Login »"}
+  Current user: anonymous
+Successful authentication for 'admin' from 172.248.254.47 at 2015-04-11 19:31:27 UTC
+Redirected to https://ruby-wyaredmine.rhcloud.com/projects
+Completed 302 Found in 11ms (ActiveRecord: 5.2ms)
+Started GET "/projects" for 127.11.217.129 at 2015-04-11 15:31:27 -0400
+Processing by ProjectsController#index as HTML
+  Current user: admin (id=1)
+  Rendered projects/index.html.erb within layouts/base (3.7ms)
+Completed 200 OK in 19ms (Views: 13.1ms | ActiveRecord: 2.2ms)
+Started GET "/projects/new" for 127.11.217.129 at 2015-04-11 15:31:32 -0400
+Processing by ProjectsController#new as HTML
+  Current user: admin (id=1)
+  Rendered projects/_form.html.erb (21.1ms)
+  Rendered projects/new.html.erb within layouts/base (24.6ms)
+Completed 200 OK in 124ms (Views: 48.1ms | ActiveRecord: 12.0ms)
+Started POST "/projects" for 127.11.217.129 at 2015-04-11 15:41:11 -0400
+Processing by ProjectsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oM566i3NPYBROVJpoW3R1IL2c/obsXGSrv0LozfqGtkbfZ2ZiTppequDTA02TTQwZfwBcBQq8IkToX5kNp6Uow==", "project"=>{"name"=>"WYA Increment 1", "description"=>"This covers all the development for Views_Reference-r11", "identifier"=>"wya-inc1", "homepage"=>"http://api-wya.rhcloud.com/", "is_public"=>"0", "inherit_members"=>"0", "enabled_module_names"=>["issue_tracking", "time_tracking", "news", "documents", "files", "wiki", "repository", "boards", "calendar", "gantt", ""], "tracker_ids"=>["1", "2", "3", ""]}, "continue"=>"Create and continue"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/projects/new
+Expire fragment views/ruby-wyaredmine.rhcloud.com/robots.txt (0.2ms)
+Completed 302 Found in 238ms (ActiveRecord: 24.6ms)
+Started GET "/projects/new" for 127.11.217.129 at 2015-04-11 15:41:12 -0400
+Processing by ProjectsController#new as HTML
+  Current user: admin (id=1)
+  Rendered projects/_form.html.erb (18.0ms)
+  Rendered projects/new.html.erb within layouts/base (19.7ms)
+Completed 200 OK in 60ms (Views: 31.6ms | ActiveRecord: 4.4ms)
+Started GET "/projects" for 127.11.217.129 at 2015-04-11 15:41:16 -0400
+Processing by ProjectsController#index as HTML
+  Current user: admin (id=1)
+  Rendered projects/index.html.erb within layouts/base (16.2ms)
+Completed 200 OK in 33ms (Views: 22.1ms | ActiveRecord: 5.8ms)
+Started GET "/projects/wya-inc1" for 127.11.217.129 at 2015-04-11 15:41:19 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/_members_box.html.erb (0.6ms)
+  Rendered projects/_sidebar.html.erb (1.5ms)
+  Rendered projects/show.html.erb within layouts/base (15.5ms)
+Completed 200 OK in 147ms (Views: 73.0ms | ActiveRecord: 22.6ms)
+Started GET "/admin" for 127.11.217.129 at 2015-04-11 15:41:26 -0400
+Processing by AdminController#index as HTML
+  Current user: admin (id=1)
+  Rendered admin/_menu.html.erb (4.7ms)
+  Rendered admin/index.html.erb within layouts/admin (12.8ms)
+  Rendered layouts/base.html.erb (13.5ms)
+Completed 200 OK in 69ms (Views: 58.8ms | ActiveRecord: 2.5ms)
+Started GET "/settings" for 127.11.217.129 at 2015-04-11 15:41:28 -0400
+Processing by SettingsController#index as HTML
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (157.4ms)
+  Rendered settings/_display.html.erb (14.3ms)
+  Rendered settings/_authentication.html.erb (9.4ms)
+  Rendered settings/_projects.html.erb (8.7ms)
+  Rendered queries/_columns.html.erb (5.4ms)
+  Rendered settings/_issues.html.erb (61.2ms)
+  Rendered settings/_notifications.html.erb (12.0ms)
+  Rendered settings/_mail_handler.html.erb (10.0ms)
+  Rendered settings/_repositories.html.erb (566.8ms)
+  Rendered common/_tabs.html.erb (935.4ms)
+  Rendered settings/edit.html.erb within layouts/admin (999.6ms)
+  Rendered admin/_menu.html.erb (3.5ms)
+  Rendered layouts/base.html.erb (11.0ms)
+Completed 200 OK in 1071ms (Views: 1039.4ms | ActiveRecord: 24.1ms)
+Started POST "/settings/edit" for 127.11.217.129 at 2015-04-11 15:41:40 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"NWHw+J+KQJ7cQOMMYdoQthT1B/FHdNlX4Ia8iGr+juSO0heLO30UZCb6/Wj2+vVS8/91e0jvWExd2slPa4oAng==", "settings"=>{"app_title"=>"Redmine", "welcome_text"=>"", "attachment_max_size"=>"25120", "per_page_options"=>"25,50,100", "search_results_per_page"=>"10", "activity_days_default"=>"30", "host_name"=>"localhost:3000", "protocol"=>"http", "text_formatting"=>"textile", "cache_formatted_text"=>"0", "wiki_compression"=>"", "feeds_limit"=>"15", "file_max_size_displayed"=>"512", "diff_max_lines_displayed"=>"1500", "repositories_encodings"=>""}, "commit"=>"Save"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/settings
+Completed 302 Found in 99ms (ActiveRecord: 52.8ms)
+Started GET "/settings" for 127.11.217.129 at 2015-04-11 15:41:40 -0400
+Processing by SettingsController#index as HTML
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (19.0ms)
+  Rendered settings/_display.html.erb (14.7ms)
+  Rendered settings/_authentication.html.erb (15.6ms)
+  Rendered settings/_projects.html.erb (10.6ms)
+  Rendered queries/_columns.html.erb (3.5ms)
+  Rendered settings/_issues.html.erb (25.9ms)
+  Rendered settings/_notifications.html.erb (11.6ms)
+  Rendered settings/_mail_handler.html.erb (5.1ms)
+  Rendered settings/_repositories.html.erb (23.5ms)
+  Rendered common/_tabs.html.erb (129.8ms)
+  Rendered settings/edit.html.erb within layouts/admin (130.4ms)
+  Rendered admin/_menu.html.erb (3.0ms)
+  Rendered layouts/base.html.erb (10.3ms)
+Completed 200 OK in 273ms (Views: 122.9ms | ActiveRecord: 24.2ms)
+Started POST "/settings/edit" for 127.11.217.129 at 2015-04-11 15:41:53 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"WWsz+rWAzdl3O/wZRxy/vcPLows8bXiFE/z4hCN8T3/i2NSJEXeZI42B4n3QPFpZJMHRgTP2+Z6uoI1DIgjBBQ==", "settings"=>{"app_title"=>"Redmine", "welcome_text"=>"", "attachment_max_size"=>"25120", "per_page_options"=>"25,50,100", "search_results_per_page"=>"10", "activity_days_default"=>"30", "host_name"=>"ruby-wyaredmine.rhcloud.com", "protocol"=>"http", "text_formatting"=>"textile", "cache_formatted_text"=>"0", "wiki_compression"=>"", "feeds_limit"=>"15", "file_max_size_displayed"=>"512", "diff_max_lines_displayed"=>"1500", "repositories_encodings"=>""}, "commit"=>"Save"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/settings
+Completed 302 Found in 46ms (ActiveRecord: 19.5ms)
+Started GET "/settings" for 127.11.217.129 at 2015-04-11 15:41:53 -0400
+Processing by SettingsController#index as HTML
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (19.8ms)
+  Rendered settings/_display.html.erb (14.8ms)
+  Rendered settings/_authentication.html.erb (16.5ms)
+  Rendered settings/_projects.html.erb (12.4ms)
+  Rendered queries/_columns.html.erb (3.8ms)
+  Rendered settings/_issues.html.erb (23.7ms)
+  Rendered settings/_notifications.html.erb (12.1ms)
+  Rendered settings/_mail_handler.html.erb (5.0ms)
+  Rendered settings/_repositories.html.erb (24.3ms)
+  Rendered common/_tabs.html.erb (132.4ms)
+  Rendered settings/edit.html.erb within layouts/admin (132.9ms)
+  Rendered admin/_menu.html.erb (3.4ms)
+  Rendered layouts/base.html.erb (10.9ms)
+Completed 200 OK in 157ms (Views: 125.0ms | ActiveRecord: 25.2ms)
+Started POST "/settings/edit" for 127.11.217.129 at 2015-04-11 15:42:03 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9W5oLm8Xv3vFJ92VskPyXeiynEqI0df6uRtuoG8qFNlO3Y9dy+DrgT+dw/ElYxe5D7juwIdKVuEERxtnbl6aow==", "settings"=>{"app_title"=>"Redmine", "welcome_text"=>"", "attachment_max_size"=>"25120", "per_page_options"=>"25,50,100", "search_results_per_page"=>"10", "activity_days_default"=>"30", "host_name"=>"ruby-wyaredmine.rhcloud.com", "protocol"=>"https", "text_formatting"=>"textile", "cache_formatted_text"=>"0", "wiki_compression"=>"", "feeds_limit"=>"15", "file_max_size_displayed"=>"512", "diff_max_lines_displayed"=>"1500", "repositories_encodings"=>""}, "commit"=>"Save"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/settings
+Completed 302 Found in 152ms (ActiveRecord: 12.2ms)
+Started GET "/settings" for 127.11.217.129 at 2015-04-11 15:42:03 -0400
+Processing by SettingsController#index as HTML
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (20.0ms)
+  Rendered settings/_display.html.erb (15.3ms)
+  Rendered settings/_authentication.html.erb (15.4ms)
+  Rendered settings/_projects.html.erb (11.2ms)
+  Rendered queries/_columns.html.erb (3.3ms)
+  Rendered settings/_issues.html.erb (21.9ms)
+  Rendered settings/_notifications.html.erb (10.9ms)
+  Rendered settings/_mail_handler.html.erb (5.0ms)
+  Rendered settings/_repositories.html.erb (22.1ms)
+  Rendered common/_tabs.html.erb (126.1ms)
+  Rendered settings/edit.html.erb within layouts/admin (126.6ms)
+  Rendered admin/_menu.html.erb (3.0ms)
+  Rendered layouts/base.html.erb (9.8ms)
+Completed 200 OK in 149ms (Views: 117.6ms | ActiveRecord: 24.5ms)
+Started POST "/settings/edit?tab=authentication" for 127.11.217.129 at 2015-04-11 15:42:30 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Znc4Xp7SlTBKFN/goeYIcpm6YzFSXC5nkF07M/b44nLdxN8tOiXByrCuwYQ2xu2WfrARu13Hr3wtAU7094xsCA==", "settings"=>{"login_required"=>"0", "autologin"=>"0", "self_registration"=>"2", "unsubscribe"=>"1", "password_min_length"=>"[FILTERED]", "lost_password"=>"[FILTERED]", "max_additional_emails"=>"5", "openid"=>"0", "rest_api_enabled"=>"0", "jsonp_enabled"=>"0", "session_lifetime"=>"0", "session_timeout"=>"0"}, "commit"=>"Save", "tab"=>"authentication"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/settings?tab=authentication
+Completed 302 Found in 64ms (ActiveRecord: 28.7ms)
+Started GET "/settings?tab=authentication" for 127.11.217.129 at 2015-04-11 15:42:31 -0400
+Processing by SettingsController#index as HTML
+  Parameters: {"tab"=>"authentication"}
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (18.3ms)
+  Rendered settings/_display.html.erb (14.5ms)
+  Rendered settings/_authentication.html.erb (13.1ms)
+  Rendered settings/_projects.html.erb (11.0ms)
+  Rendered queries/_columns.html.erb (3.4ms)
+  Rendered settings/_issues.html.erb (21.6ms)
+  Rendered settings/_notifications.html.erb (11.1ms)
+  Rendered settings/_mail_handler.html.erb (5.2ms)
+  Rendered settings/_repositories.html.erb (22.5ms)
+  Rendered common/_tabs.html.erb (120.8ms)
+  Rendered settings/edit.html.erb within layouts/admin (121.3ms)
+  Rendered admin/_menu.html.erb (3.1ms)
+  Rendered layouts/base.html.erb (129.6ms)
+Completed 200 OK in 264ms (Views: 232.5ms | ActiveRecord: 24.6ms)
+Started GET "/" for 127.11.217.129 at 2015-04-11 15:42:34 -0400
+Processing by WelcomeController#index as HTML
+  Current user: admin (id=1)
+  Rendered welcome/index.html.erb within layouts/base (6.2ms)
+Completed 200 OK in 24ms (Views: 15.2ms | ActiveRecord: 2.8ms)
+Started GET "/projects/wya-inc1" for 127.11.217.129 at 2015-04-11 15:42:39 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/_members_box.html.erb (0.1ms)
+  Rendered projects/_sidebar.html.erb (0.6ms)
+  Rendered projects/show.html.erb within layouts/base (7.3ms)
+Completed 200 OK in 49ms (Views: 25.3ms | ActiveRecord: 8.0ms)
+Started GET "/projects/wya-inc1/settings" for 127.11.217.129 at 2015-04-11 15:42:44 -0400
+Processing by ProjectsController#settings as HTML
+  Parameters: {"id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/_form.html.erb (12.6ms)
+  Rendered projects/_edit.html.erb (14.4ms)
+  Rendered projects/settings/_modules.html.erb (6.2ms)
+  Rendered projects/settings/_members.html.erb (15.1ms)
+  Rendered projects/settings/_versions.html.erb (10.0ms)
+  Rendered projects/settings/_issue_categories.html.erb (5.7ms)
+  Rendered projects/settings/_wiki.html.erb (2.6ms)
+  Rendered projects/settings/_repositories.html.erb (5.7ms)
+  Rendered projects/settings/_boards.html.erb (3.0ms)
+  Rendered projects/settings/_activities.html.erb (14.0ms)
+  Rendered common/_tabs.html.erb (161.1ms)
+  Rendered projects/settings.html.erb within layouts/base (162.4ms)
+Completed 200 OK in 214ms (Views: 178.0ms | ActiveRecord: 14.7ms)
+Started GET "/projects/wya-inc1/memberships/new" for 127.11.217.129 at 2015-04-11 15:42:49 -0400
+Processing by MembersController#new as JS
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered members/_new_form.html.erb (10.1ms)
+  Rendered members/_new_modal.html.erb (140.8ms)
+  Rendered members/new.js.erb (147.2ms)
+Completed 200 OK in 199ms (Views: 189.9ms | ActiveRecord: 2.8ms)
+Started POST "/projects/wya-inc1/memberships" for 127.11.217.129 at 2015-04-11 15:42:57 -0400
+Processing by MembersController#create as JS
+  Parameters: {"utf8"=>"✓", "principal_search"=>"", "membership"=>{"user_ids"=>["1"], "role_ids"=>["3", "4", "5"]}, "commit"=>"Add", "project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/settings/_members.html.erb (15.7ms)
+  Rendered members/create.js.erb (19.8ms)
+Completed 200 OK in 66ms (Views: 20.9ms | ActiveRecord: 7.9ms)
+Started GET "/projects/wya-inc1/versions/new?back_url=" for 127.11.217.129 at 2015-04-11 15:43:13 -0400
+Processing by VersionsController#new as HTML
+  Parameters: {"back_url"=>"", "project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered versions/_form.html.erb (10.5ms)
+  Rendered versions/new.html.erb within layouts/base (19.2ms)
+Completed 200 OK in 73ms (Views: 48.4ms | ActiveRecord: 5.0ms)
+Started GET "/projects/wya-inc1/issues/gantt" for 127.11.217.129 at 2015-04-11 15:43:18 -0400
+Processing by GanttsController#show as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered queries/_filters.html.erb (6.8ms)
+  Rendered issues/_sidebar.html.erb (5.9ms)
+  Rendered gantts/show.html.erb within layouts/base (194.3ms)
+Completed 200 OK in 288ms (Views: 227.2ms | ActiveRecord: 13.2ms)
+Started GET "/projects/wya-inc1/documents" for 127.11.217.129 at 2015-04-11 15:43:21 -0400
+Processing by DocumentsController#index as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (4.8ms)
+  Rendered documents/_form.html.erb (24.4ms)
+  Rendered documents/index.html.erb within layouts/base (31.2ms)
+Completed 200 OK in 111ms (Views: 67.2ms | ActiveRecord: 8.1ms)
+Started GET "/projects/wya-inc1/news" for 127.11.217.129 at 2015-04-11 15:43:23 -0400
+Processing by NewsController#index as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (4.1ms)
+  Rendered news/_form.html.erb (11.5ms)
+  Rendered news/index.html.erb within layouts/base (58.2ms)
+Completed 200 OK in 125ms (Views: 94.3ms | ActiveRecord: 9.2ms)
+Started GET "/projects/wya-inc1/documents" for 127.11.217.129 at 2015-04-11 15:43:24 -0400
+Processing by DocumentsController#index as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (3.2ms)
+  Rendered documents/_form.html.erb (8.8ms)
+  Rendered documents/index.html.erb within layouts/base (11.5ms)
+Completed 200 OK in 164ms (Views: 144.9ms | ActiveRecord: 8.3ms)
+Started POST "/projects/wya-inc1/documents" for 127.11.217.129 at 2015-04-11 15:45:18 -0400
+Processing by DocumentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9tYH/u5GHNrqSfyZMRavg49rVe/1J5TdZPYN1apmmklNZeCNSrFIIBDz4v2mNkpnaGEnZfq8FcbZqngSqxIUMw==", "document"=>{"category_id"=>"6", "title"=>"passwords", "description"=>"Apple dev ID:\r\nInfo@whereyouatapplication.com\r\nPassword: Lna9131551\r\n\r\nAPI via OpenShift\r\nusername: whereyouatdev@wirzbrothers.com\r\npassword: 6073296458\r\n\r\nPusher via OpenShift\r\nusername: whereyouatpushdev@wirzbrothers.com\r\npassword: 6073296458\r\n\r\nRedmine via OpenShift\r\nusername: wyaredmine@wirzbrothers.com\r\npassword: 6073296458\r\n\r\nAmazon:\r\nusername: AP@WHEREYOUATAPPLICATION.COM\r\npassword: 6073296458"}, "commit"=>"Create", "project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/projects/wya-inc1/documents
+Completed 302 Found in 27ms (ActiveRecord: 7.6ms)
+Started GET "/projects/wya-inc1/documents" for 127.11.217.129 at 2015-04-11 15:45:18 -0400
+Processing by DocumentsController#index as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (2.6ms)
+  Rendered documents/_form.html.erb (9.1ms)
+  Rendered documents/_document.html.erb (5.5ms)
+  Rendered documents/index.html.erb within layouts/base (30.3ms)
+Completed 200 OK in 87ms (Views: 51.4ms | ActiveRecord: 10.4ms)
+Started GET "/documents/1" for 127.11.217.129 at 2015-04-11 15:45:21 -0400
+Processing by DocumentsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (4.3ms)
+  Rendered documents/show.html.erb within layouts/base (17.5ms)
+Completed 200 OK in 70ms (Views: 50.5ms | ActiveRecord: 6.1ms)
+Started GET "/projects/wya-inc1/documents" for 127.11.217.129 at 2015-04-11 15:45:24 -0400
+Processing by DocumentsController#index as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (2.7ms)
+  Rendered documents/_form.html.erb (8.3ms)
+  Rendered documents/_document.html.erb (3.6ms)
+  Rendered documents/index.html.erb within layouts/base (14.7ms)
+Completed 200 OK in 54ms (Views: 33.1ms | ActiveRecord: 6.0ms)
+Started GET "/documents/1" for 127.11.217.129 at 2015-04-11 15:45:29 -0400
+Processing by DocumentsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (2.5ms)
+  Rendered documents/show.html.erb within layouts/base (10.0ms)
+Completed 200 OK in 41ms (Views: 27.3ms | ActiveRecord: 5.3ms)
+Started GET "/documents/1/edit" for 127.11.217.129 at 2015-04-11 15:45:31 -0400
+Processing by DocumentsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Current user: admin (id=1)
+  Rendered documents/_form.html.erb (6.1ms)
+  Rendered documents/edit.html.erb within layouts/base (8.4ms)
+Completed 200 OK in 54ms (Views: 43.3ms | ActiveRecord: 4.5ms)
+Started PATCH "/documents/1" for 127.11.217.129 at 2015-04-11 15:45:42 -0400
+Processing by DocumentsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZijNeQYehVhrn6v3U2IRFC0dAJ4cfV/Ofvv0jVB+3iTdmyoKounRopEltZPEQvTwyhdyFBPm3tXDp4FKUQpQXg==", "document"=>{"category_id"=>"6", "title"=>"Passwords", "description"=>"Apple dev ID:\r\nInfo@whereyouatapplication.com\r\nPassword: Lna9131551\r\n\r\nAPI via OpenShift\r\nusername: whereyouatdev@wirzbrothers.com\r\npassword: 6073296458\r\n\r\nPusher via OpenShift\r\nusername: whereyouatpushdev@wirzbrothers.com\r\npassword: 6073296458\r\n\r\nRedmine via OpenShift\r\nusername: wyaredmine@wirzbrothers.com\r\npassword: 6073296458\r\n\r\nAmazon:\r\nusername: AP@WHEREYOUATAPPLICATION.COM\r\npassword: 6073296458"}, "commit"=>"Save", "id"=>"1"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/documents/1
+Completed 302 Found in 25ms (ActiveRecord: 8.7ms)
+Started GET "/documents/1" for 127.11.217.129 at 2015-04-11 15:45:42 -0400
+Processing by DocumentsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (3.3ms)
+  Rendered documents/show.html.erb within layouts/base (10.8ms)
+Completed 200 OK in 167ms (Views: 149.0ms | ActiveRecord: 10.2ms)
+Started GET "/projects/wya-inc1" for 127.11.217.129 at 2015-04-11 15:46:24 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/_members_box.html.erb (0.9ms)
+  Rendered projects/_sidebar.html.erb (0.7ms)
+  Rendered projects/show.html.erb within layouts/base (7.9ms)
+Completed 200 OK in 53ms (Views: 26.4ms | ActiveRecord: 7.8ms)
+Started GET "/projects/wya-inc1/documents" for 127.11.217.129 at 2015-04-11 15:46:30 -0400
+Processing by DocumentsController#index as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered attachments/_form.html.erb (2.9ms)
+  Rendered documents/_form.html.erb (8.9ms)
+  Rendered documents/_document.html.erb (3.9ms)
+  Rendered documents/index.html.erb within layouts/base (15.8ms)
+Completed 200 OK in 55ms (Views: 34.4ms | ActiveRecord: 6.1ms)
+Started GET "/projects/wya-inc1" for 127.11.217.129 at 2015-04-11 15:46:56 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/_members_box.html.erb (0.7ms)
+  Rendered projects/_sidebar.html.erb (0.6ms)
+  Rendered projects/show.html.erb within layouts/base (7.2ms)
+Completed 200 OK in 51ms (Views: 25.2ms | ActiveRecord: 7.6ms)
+Started GET "/projects/wya-inc1/activity" for 127.11.217.129 at 2015-04-11 15:49:26 -0400
+Processing by ActivitiesController#index as HTML
+  Parameters: {"id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered activities/index.html.erb within layouts/base (13.2ms)
+Completed 200 OK in 82ms (Views: 34.9ms | ActiveRecord: 12.8ms)
+Started GET "/my/page" for 127.11.217.129 at 2015-04-11 15:49:32 -0400
+Processing by MyController#page as HTML
+  Current user: admin (id=1)
+  Rendered issues/_list_simple.html.erb (1.1ms)
+  Rendered my/blocks/_issuesassignedtome.html.erb (39.0ms)
+  Rendered issues/_list_simple.html.erb (0.1ms)
+  Rendered my/blocks/_issuesreportedbyme.html.erb (9.8ms)
+  Rendered my/page.html.erb within layouts/base (70.7ms)
+Completed 200 OK in 102ms (Views: 87.6ms | ActiveRecord: 9.4ms)
+Started GET "/projects" for 127.11.217.129 at 2015-04-11 15:49:33 -0400
+Processing by ProjectsController#index as HTML
+  Current user: admin (id=1)
+  Rendered projects/index.html.erb within layouts/base (10.2ms)
+Completed 200 OK in 32ms (Views: 20.8ms | ActiveRecord: 3.8ms)
+Started GET "/admin" for 127.11.217.129 at 2015-04-11 15:49:35 -0400
+Processing by AdminController#index as HTML
+  Current user: admin (id=1)
+  Rendered admin/_menu.html.erb (3.1ms)
+  Rendered admin/index.html.erb within layouts/admin (3.5ms)
+  Rendered layouts/base.html.erb (10.7ms)
+Completed 200 OK in 139ms (Views: 14.5ms | ActiveRecord: 119.8ms)
+Started GET "/users" for 127.11.217.129 at 2015-04-11 15:49:36 -0400
+Processing by UsersController#index as HTML
+  Current user: admin (id=1)
+  Rendered users/index.html.erb within layouts/admin (11.3ms)
+  Rendered admin/_menu.html.erb (3.2ms)
+  Rendered layouts/base.html.erb (10.3ms)
+Completed 200 OK in 68ms (Views: 54.0ms | ActiveRecord: 3.4ms)
+Started GET "/admin" for 127.11.217.129 at 2015-04-11 15:49:58 -0400
+Processing by AdminController#index as HTML
+  Current user: admin (id=1)
+  Rendered admin/_menu.html.erb (3.3ms)
+  Rendered admin/index.html.erb within layouts/admin (3.7ms)
+  Rendered layouts/base.html.erb (11.1ms)
+Completed 200 OK in 22ms (Views: 15.2ms | ActiveRecord: 1.9ms)
+Started GET "/settings" for 127.11.217.129 at 2015-04-11 15:50:00 -0400
+Processing by SettingsController#index as HTML
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (5.7ms)
+  Rendered settings/_display.html.erb (5.2ms)
+  Rendered settings/_authentication.html.erb (3.7ms)
+  Rendered settings/_projects.html.erb (6.7ms)
+  Rendered queries/_columns.html.erb (3.4ms)
+  Rendered settings/_issues.html.erb (10.8ms)
+  Rendered settings/_notifications.html.erb (3.6ms)
+  Rendered settings/_mail_handler.html.erb (1.2ms)
+  Rendered settings/_repositories.html.erb (13.0ms)
+  Rendered common/_tabs.html.erb (53.5ms)
+  Rendered settings/edit.html.erb within layouts/admin (54.1ms)
+  Rendered admin/_menu.html.erb (2.9ms)
+  Rendered layouts/base.html.erb (10.7ms)
+Completed 200 OK in 74ms (Views: 66.1ms | ActiveRecord: 3.7ms)
+Started POST "/settings/edit?tab=notifications" for 127.11.217.129 at 2015-04-11 15:50:43 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aCgZkqkDiuv+FMS/vHIY0AcsqNq8BrAPWn6MVZBsmp/Tm/7hDfTeEQSu2tsrUv004CbaULOdMRTnIvmSkRgU5Q==", "settings"=>{"mail_from"=>"redmine@wirzbrothers.com", "bcc_recipients"=>"0", "plain_text_mail"=>"0", "default_notification_option"=>"only_my_events", "notified_events"=>["", "issue_added", "issue_updated"], "emails_header"=>"", "emails_footer"=>"You have received this notification because you have either subscribed to it, or are involved in it.\r\nTo change your notification preferences, please click here: https://ruby-wyaredmine.rhcloud.com/my/account"}, "commit"=>"Save", "tab"=>"notifications"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/settings?tab=notifications
+Completed 302 Found in 40ms (ActiveRecord: 17.3ms)
+Started GET "/settings?tab=notifications" for 127.11.217.129 at 2015-04-11 15:50:43 -0400
+Processing by SettingsController#index as HTML
+  Parameters: {"tab"=>"notifications"}
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (21.6ms)
+  Rendered settings/_display.html.erb (23.0ms)
+  Rendered settings/_authentication.html.erb (18.3ms)
+  Rendered settings/_projects.html.erb (14.8ms)
+  Rendered queries/_columns.html.erb (5.5ms)
+  Rendered settings/_issues.html.erb (34.5ms)
+  Rendered settings/_notifications.html.erb (16.4ms)
+  Rendered settings/_mail_handler.html.erb (5.5ms)
+  Rendered settings/_repositories.html.erb (35.9ms)
+  Rendered common/_tabs.html.erb (304.8ms)
+  Rendered settings/edit.html.erb within layouts/admin (305.4ms)
+  Rendered admin/_menu.html.erb (5.2ms)
+  Rendered layouts/base.html.erb (16.0ms)
+Completed 200 OK in 337ms (Views: 301.5ms | ActiveRecord: 28.3ms)
+Started POST "/settings/edit?tab=repositories" for 127.11.217.129 at 2015-04-11 15:50:58 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ErdTV+jiP+qQgLVrSIgIUhaTg/fkwoEuaRLnGWoLLnipBLQkTBVrEGo6qw/fqO228ZnxfetZADXUTpLea3+gAg==", "settings"=>{"enabled_scm"=>["", "Subversion", "Mercurial", "Git"], "autofetch_changesets"=>"1", "sys_api_enabled"=>"0", "repository_log_display_limit"=>"100", "commit_ref_keywords"=>"refs,references,IssueID", "commit_cross_project_ref"=>"0", "commit_logtime_enabled"=>"0", "commit_update_keywords"=>{"if_tracker_id"=>[""], "keywords"=>[""], "status_id"=>["0"], "done_ratio"=>[""]}}, "commit"=>"Save", "tab"=>"repositories"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/settings?tab=repositories
+Completed 302 Found in 54ms (ActiveRecord: 22.9ms)
+Started GET "/settings?tab=repositories" for 127.11.217.129 at 2015-04-11 15:50:59 -0400
+Processing by SettingsController#index as HTML
+  Parameters: {"tab"=>"repositories"}
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (21.2ms)
+  Rendered settings/_display.html.erb (16.0ms)
+  Rendered settings/_authentication.html.erb (14.1ms)
+  Rendered settings/_projects.html.erb (11.1ms)
+  Rendered queries/_columns.html.erb (3.6ms)
+  Rendered settings/_issues.html.erb (23.1ms)
+  Rendered settings/_notifications.html.erb (12.0ms)
+  Rendered settings/_mail_handler.html.erb (5.0ms)
+  Rendered settings/_repositories.html.erb (19.8ms)
+  Rendered common/_tabs.html.erb (126.1ms)
+  Rendered settings/edit.html.erb within layouts/admin (126.6ms)
+  Rendered admin/_menu.html.erb (3.0ms)
+  Rendered layouts/base.html.erb (10.9ms)
+Completed 200 OK in 150ms (Views: 117.7ms | ActiveRecord: 25.8ms)
+Started POST "/settings/edit" for 127.11.217.129 at 2015-04-11 15:51:23 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EY1RLgM+iNHy3HGNT+r8X49nP+QfzX4LSs5P/SUiuv+qPrZdp8ncKwhmb+nYyhm7aG1NbhBW/xD3kjo6JFY0hQ==", "settings"=>{"app_title"=>"WU@ Redmine", "welcome_text"=>"", "attachment_max_size"=>"25120", "per_page_options"=>"25,50,100", "search_results_per_page"=>"10", "activity_days_default"=>"30", "host_name"=>"ruby-wyaredmine.rhcloud.com", "protocol"=>"https", "text_formatting"=>"textile", "cache_formatted_text"=>"0", "wiki_compression"=>"", "feeds_limit"=>"15", "file_max_size_displayed"=>"512", "diff_max_lines_displayed"=>"1500", "repositories_encodings"=>""}, "commit"=>"Save"}
+  Current user: admin (id=1)
+Redirected to https://ruby-wyaredmine.rhcloud.com/settings
+Completed 302 Found in 36ms (ActiveRecord: 11.9ms)
+Started GET "/settings" for 127.11.217.129 at 2015-04-11 15:51:23 -0400
+Processing by SettingsController#index as HTML
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (18.5ms)
+  Rendered settings/_display.html.erb (14.5ms)
+  Rendered settings/_authentication.html.erb (12.8ms)
+  Rendered settings/_projects.html.erb (10.4ms)
+  Rendered queries/_columns.html.erb (4.7ms)
+  Rendered settings/_issues.html.erb (144.9ms)
+  Rendered settings/_notifications.html.erb (10.8ms)
+  Rendered settings/_mail_handler.html.erb (5.3ms)
+  Rendered settings/_repositories.html.erb (22.0ms)
+  Rendered common/_tabs.html.erb (243.0ms)
+  Rendered settings/edit.html.erb within layouts/admin (243.4ms)
+  Rendered admin/_menu.html.erb (3.1ms)
+  Rendered layouts/base.html.erb (10.8ms)
+Completed 200 OK in 264ms (Views: 234.2ms | ActiveRecord: 25.6ms)
+Started GET "/my/page" for 127.11.217.129 at 2015-04-11 15:51:41 -0400
+Processing by MyController#page as HTML
+  Current user: admin (id=1)
+  Rendered issues/_list_simple.html.erb (0.1ms)
+  Rendered my/blocks/_issuesassignedtome.html.erb (13.2ms)
+  Rendered issues/_list_simple.html.erb (0.1ms)
+  Rendered my/blocks/_issuesreportedbyme.html.erb (4.8ms)
+  Rendered my/page.html.erb within layouts/base (21.8ms)
+Completed 200 OK in 40ms (Views: 26.6ms | ActiveRecord: 7.0ms)
+Started GET "/projects" for 127.11.217.129 at 2015-04-11 15:51:43 -0400
+Processing by ProjectsController#index as HTML
+  Current user: admin (id=1)
+  Rendered projects/index.html.erb within layouts/base (8.4ms)
+Completed 200 OK in 25ms (Views: 17.4ms | ActiveRecord: 3.0ms)
+Started GET "/admin" for 127.11.217.129 at 2015-04-11 15:51:45 -0400
+Processing by AdminController#index as HTML
+  Current user: admin (id=1)
+  Rendered admin/_menu.html.erb (3.4ms)
+  Rendered admin/index.html.erb within layouts/admin (3.8ms)
+  Rendered layouts/base.html.erb (10.6ms)
+Completed 200 OK in 21ms (Views: 14.5ms | ActiveRecord: 2.2ms)
+Started GET "/projects/wya-inc1?jump=admin" for 127.11.217.129 at 2015-04-11 15:51:50 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"jump"=>"admin", "id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/_members_box.html.erb (0.7ms)
+  Rendered projects/_sidebar.html.erb (0.5ms)
+  Rendered projects/show.html.erb within layouts/base (6.9ms)
+Completed 200 OK in 49ms (Views: 24.1ms | ActiveRecord: 7.7ms)
+Started GET "/projects/wya-inc1/issues/gantt" for 127.11.217.129 at 2015-04-11 15:56:32 -0400
+Processing by GanttsController#show as HTML
+  Parameters: {"project_id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered queries/_filters.html.erb (5.1ms)
+  Rendered issues/_sidebar.html.erb (2.8ms)
+  Rendered gantts/show.html.erb within layouts/base (29.9ms)
+Completed 200 OK in 81ms (Views: 47.4ms | ActiveRecord: 9.6ms)
+Started GET "/projects/wya-inc1" for 127.11.217.129 at 2015-04-11 16:03:14 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"wya-inc1"}
+  Current user: admin (id=1)
+  Rendered projects/_members_box.html.erb (0.7ms)
+  Rendered projects/_sidebar.html.erb (0.6ms)
+  Rendered projects/show.html.erb within layouts/base (7.4ms)
+Completed 200 OK in 102ms (Views: 24.8ms | ActiveRecord: 59.9ms)
+Started HEAD "/" for 127.11.217.129 at 2015-04-11 16:10:15 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (4.1ms)
+Completed 200 OK in 185ms (Views: 173.6ms | ActiveRecord: 2.7ms)
+Started HEAD "/" for 127.11.217.129 at 2015-04-11 16:10:16 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.0ms)
+Completed 200 OK in 19ms (Views: 8.9ms | ActiveRecord: 2.6ms)
