@@ -1,5 +1,5 @@
 <h1>Redmine 3.0.1 for Openshift</h1>
-<p>The following procedure will create a redmine instance</p>
+<p>The following procedure will create a redmine instance - and was the procedure used to create this repo after a successful deployment.</p>
 <pre>
 # The Openshift application must be configured as follows:
 # Ruby 1.9 or 2.0 (no scaling)
