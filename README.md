@@ -42,7 +42,14 @@ gear stop
 gear start
 </pre>
 
-<p>Once the gear is functioning properly, add the contents to the the repository.  You must have the gear's ssh key added to your remote repository's (or application's) allowed key collection.  This example just shows you how to push to your gear's repo, but I have also tested this with github (the repo you're looking at now).</p>
+<p>Once the gear is functioning properly, add the contents to the the repository.  You must have the gear's ssh key added to your remote repository's (or application's) allowed key collection.  Here is how to do that:</p>
+<pre>
+git config --global user.name "you"
+git config --global user.email "you@email.com"
+ssh-keygen -t rsa -C "you@email.com"
+cat ~/.ssh/id_rsa.pub
+</pre>
+<p>Now that the SSH key is added, you can push the code to a repo.  This example just shows you how to push to your gear's repo, but I have also tested this with github (the repo you're looking at now).</p>
 <pre>
 cd ~/app-root/runtime/repo/
 git init
